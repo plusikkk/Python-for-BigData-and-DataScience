@@ -1,1 +1,0 @@
-print("Olha Mykhailyk, 3")
